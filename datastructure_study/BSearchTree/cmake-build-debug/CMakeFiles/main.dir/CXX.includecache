@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/code/CorC++/dataStructure_tree/BSearchTree/RBTree.cpp
+RBTree.h
+D:/code/CorC++/dataStructure_tree/BSearchTree/RBTree.h
+
+D:/code/CorC++/dataStructure_tree/BSearchTree/RBTree.h
+utility
+-
+iostream
+-
+typeinfo
+-
+
+D:/code/CorC++/dataStructure_tree/BSearchTree/main.cpp
+RBTree.h
+D:/code/CorC++/dataStructure_tree/BSearchTree/RBTree.h
+iostream
+-
+

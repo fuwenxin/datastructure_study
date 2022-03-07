@@ -1,0 +1,10 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: F:/ENV/mingW64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+g++.exe: error: CreateProcess: No such file or directory
+
+
